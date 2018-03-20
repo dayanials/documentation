@@ -12,23 +12,23 @@ Note that the Featured Plans are available only for the Premium Users. When you 
 
 With our 2.4.0 release, we added the option to create featured plans for ads.
 
-This feature allows you to give users the option to select between different length of the featured of their ad and pay according to your plans.
+This feature allows you to give users the option to select among different length of the featured of their ad and pay according to your plans.
 
 If you don't know how to enable featured ads, please follow [this guide](http://docs.yclas.com/setup-payment-gateways/)!
 
 
 ## How to create Featured Plans
 
-1. Log in to your Admin Panel.
-2. **Settings** -> **Payment**, enable Featured Ads
-3. On Featured Plans click **Add a plan** if you want to create a new plan or click to **edit** an existing plan  
-4. Fill the fields and click **Save plan**
+1. Log into your Admin Panel.
+2. **Settings** -> **Payment**, enable Featured Ads.
+3. On Featured Plans click **Add a plan** if you want to create a new plan or click to **edit** an existing plan.  
+4. Fill the fields and click **Save plan**.
 
 <a href="{{ site.baseurl }}/images/featured-plans.png" class="thumbnail gallery-item" data-gallery>
 ![featured plan](//docs.yclas.com/images/featured-plans.png)
 </a>
 
-Now, when users click to mark theird ad as featured, they will be redirected to the checkout page to choose the featured plan they want to buy.
+Now, when users click to mark their ad as featured, they will be redirected to the checkout page to choose the featured plan they want to buy.
 
 <a href="{{ site.baseurl }}/images/checkout-featured.png" class="thumbnail gallery-item" data-gallery>
 ![featured plan](//docs.yclas.com/images/checkout-featured.png)
@@ -38,7 +38,7 @@ Now, when users click to mark theird ad as featured, they will be redirected to 
 
 There are several ways to mark an ad as featured. 
 
-The **admin** of the site can mark any ad as featured, even if there are published by a different user. Here's how the admin can mark ads as featured:
+The **admin** of the site can mark any ad as featured, even if they were published by a different user. Here's how the admin can mark ads as featured:
 
 + **Admin Panel** -> **Classifieds** -> **Advertisements** -> click the settings button -> **Featured**
 + Go to an ad page and click **Go Featured!**.
