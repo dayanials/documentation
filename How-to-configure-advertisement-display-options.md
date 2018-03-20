@@ -1,5 +1,5 @@
 ---
-title:  How to configure Advertisement Display Options
+title:  How to configure the Advertisement Display Options
 date:   2015-05-04 10:26:48
 categories: Advertisement
 tags: [Advertisement]
@@ -14,17 +14,17 @@ To access these options, login to your **Panel**, go to **Settings** -> **Advert
 ![Advertisement Display Options](//docs.yclas.com/images/ad-display-options.png)
 </a>
 
-+ **Contact form**: If you enable this option then a contact form appears in each ad's page where users can contact with the seller.
++ **Contact form**: If you enable this option, then a contact form will appear in each ad's page so users can contact with the seller.
 + **Require login to view ad**: Enable this to force users to login to be able to view ads in your site.
 + **Require login to contact**: Enable this to force users to login to contact with the seller.
 + **Price on contact form**: Enable this option to have another field called Price in the advertisement contact form, so the buyer can contact the seller asking about the price. 
 + **Show QR code**: [QR code](http://en.wikipedia.org/wiki/QR_code)
 + **Google Maps in Ad**: Allow Google Maps to be displayed on ads which have address.
-+ **Count visits ads**: You can choose if you wish to display amount of visits at each advertisement.
-+ **Show sharing buttons**: You can choose if you wish to display sharing buttons at each advertisement.
-+ **Show Report this ad button**: You can choose if you wish to display _Report this ad_ button at each advertisement.
-+ **Related ads**: You can choose if you wish to display random related ads at each advertisement.
-+ **Show Free tag**: You can choose if you display Free when an ad has no price or price equal to zero.
++ **Count visits ads**: You can choose to display an amount of visits at each advertisement.
++ **Show sharing buttons**: You can choose to display sharing buttons at each advertisement.
++ **Show Report this ad button**: You can choose to display _Report this ad_ button at each advertisement.
++ **Related ads**: You can choose to display random related ads at each advertisement.
++ **Show Free tag**: You can choose to display "Free" when an ad has no price or price equal to zero.
 + **Facebook comments**: You need to write your Facebook APP ID to enable the service. Find more [here]({{ site.baseurl }}/add-facebook-comments)
 + **Disqus Comments**: You need to write your disqus ID to enable the service.Find more [here]({{ site.baseurl }}/how-to-activate-comments-with-disqus)
 + **Logbee**: Integrates your site with [Logbee](http://www.logbee.com/)
