@@ -8,7 +8,7 @@ tags:
 permalink: /algolia-search/
 keywords: search, algolia
 ---
-With Algolia search you can bring instant and relevant search to your classfieds website and make content browsing more intuitive for your visitors.
+With Algolia search, you can bring instant and relevant search to your classfieds website and make the browsing content more intuitive for your visitors.
 
 ## Configuration
 
@@ -16,7 +16,7 @@ Follow the steps below to use Algolia search in your website:
 
 1\. Create a free account on [Algolia.com](https://www.algolia.com)<br>
 2\. Complete the required fields on the registration page. In the "Select your region" field select Europe (France) or Europe (Germany) and press "Let's Get Started".<br>
-3\. The account is created and you will be directed to a tutorial. You can click "Continue" or "Skip tutorial" on the right top.<br>
+3\. The account will be created and you will be redirected to a tutorial. You can click "Continue" or "Skip tutorial" on the right top.<br>
 4\. Press "Go to your Dashboard" to find the required keys.<br>
 5\. Select **API keys** on the left sidebar.<br>
 
