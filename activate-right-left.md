@@ -6,7 +6,7 @@ tags: [Appearance]
 permalink: /activate-right-left/
 keywords: rtl, right to left, layout, theme, options
 ---
-**To activate right-to-left theme orientation** you need to do the following steps: 
+**To activate right-to-left theme orientation**, here is what you need to do: 
 
 1. Log in and go to your **Admin Panel** 
 2. Go to **Appearance** > **Theme options** 
