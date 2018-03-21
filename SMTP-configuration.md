@@ -24,7 +24,7 @@ When you finish with the configuration, click **SAVE**
 
 ## Gmail
 
-If you are using a gmail account use the information provided below:
+If you are using a Gmail account, use the information provided below:
 
 If your website is using SSL (https://):
 
