@@ -11,7 +11,7 @@ keywords: logo, upload
 </a>
 
 <br>
-Only available on premium themes. Adding a logo to a classifieds website is a simple process that takes less than a minute, you just need to **follow these steps**:
+Only available for premium themes. Adding a logo to a classifieds website is a simple process that takes less than a minute. You just need to **follow these steps**:
 
 1. Get your logo file ready in your preferred format with the recommended dimensions of 250px by 40px
 2. Login to your panel
@@ -25,9 +25,9 @@ Only available on premium themes. Adding a logo to a classifieds website is a si
 </a>
 
 <br>
-Of course if your logo doesn't show up right away try deleting cache and browsing in private/incognito mode because your website might be cached on your browser.
+If your logo doesn't show up right away, try deleting cache and browsing in private/incognito mode because your website might be cached on your browser.
 
-When you want to **[design a logo](http://selfhosted.yclas.com/services/logo-for-your-site.html)** we can do that for you!
+If you want to **[design a logo](http://selfhosted.yclas.com/services/logo-for-your-site.html)**, we can do it for you!
 
 <br>
 **Related guides:**
