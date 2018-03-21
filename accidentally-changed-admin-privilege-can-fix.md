@@ -22,9 +22,9 @@ I was playing around with the user roles and accidentally changed the admin role
 
 ![Fixing user roles]({{site.baseurl}}/images/admin-role.png)
 
-What is more, if you forgot your password and somehow the " **Forgot my password** " function wasn't working, you could fix that by registering a new user and following the above mentioned steps to make the **new user admin**.
+If you forgot your password and somehow the " **Forgot my password** " function wasn't working, you can fix that by registering a new user and following the steps mentioned before to make the **new user admin**.
 
-Let us know what guide you want next and we will write it for you and include it to our FAQ section, simply post a comment in the section below.
+Let us know what guide do you need next and we will write it for you and include it in our FAQ section. Simply post a comment in the section below.
 
-Regards from Yclas team.
+Regards from the Yclas team.
 
