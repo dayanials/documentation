@@ -8,13 +8,13 @@ tags:
 permalink: /add-facebook-comments/
 keywords: social media, facebook, comments, display options
 ---
-This feature requires **two steps** one on **Facebook side** and one on **Yclas side**: 
+This feature requires **two steps**, one on the **Facebook side** and one on the **Yclas side**: 
 
 ## Facebook side
 
 **(might change depending on Facebook!)** 
 
-1. First you need to **log in to Facebook** and go to https://developers.facebook.com 
+1. First, you need to **log in to Facebook** and go to https://developers.facebook.com 
 2. Click on **Apps** (register as a developer if you haven't already) 
 
 <a href="//open-classifieds.com/wp-content/uploads/2014/05/facebook-apps-1024x516.png" class="thumbnail gallery-item" data-gallery>
@@ -38,7 +38,7 @@ This feature requires **two steps** one on **Facebook side** and one on **Yclas 
 1. Log in to your **admin panel**.
 2. Go to **Settings** > **Advertisement** > **Advertisement Display Options**.
 3. Enter the **Facebook App ID** into the **Facebook comments** box.
-4. Press **Save**! 
+4. Press **Save**
 
 <a href="//docs.yclas.com/images/facebook-comments.png" class="thumbnail gallery-item" data-gallery>
 ![How to add Facebook comments](//docs.yclas.com/images/facebook-comments.png) 
