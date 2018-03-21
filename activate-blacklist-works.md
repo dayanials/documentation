@@ -8,9 +8,9 @@ tags:
 permalink: /activate-blacklist-works/
 keywords: blacklist, spam, post, plugins
 ---
-The **black list** function **blocks the users that published any ad that you marked as spam** from posting again. In simple words, you mark an ad as spam and the user who posted that ad can no longer post any ad again.
+The **black list** function **blocks users that published an ad that you marked as spam** and prevents them from posting again. In simple words, you mark an ad as spam and the user who posted that ad can no longer post any ad again.
 
-**How to activate?** 
+**How to activate it?** 
 
 1. Log in to your **Admin Panel**.
 2. Go to **Settings** > **Plugins**.
@@ -23,7 +23,7 @@ The **black list** function **blocks the users that published any ad that you ma
 <br>
 Once you do that, whenever you mark an ad as spam you will receive a **warning message** saying that the e-mail related to the user who published that ad is now blacklisted and prevented from posting.
 
-To see a **full list of blacklisted users** follow those steps: 
+To see a **full list of blacklisted users** follow these steps: 
 
 1. Log in to your **Admin Panel** 
 2. Go to **Users** > **Black list** 
