@@ -14,7 +14,7 @@ keywords: forum, content, topic
 
 Hey! 
 
-With our latest release, we added the option to have a fully functional forum section within your classifieds website. Please note, it is very simple to add. 
+In our latest release, we added the option to have a fully functional forum section within your classifieds website. Please note that it is very simple to add. 
 
 **Here is how:** 
 
@@ -35,5 +35,5 @@ With our latest release, we added the option to have a fully functional forum se
 </a>
 
 <br>
-6\. Fill in the required fields and press **Create**. Once you do that you can manage forum tabs just the same way you manage categories and list them and now your users can post in the forums.
+6\. Fill in the required fields and press **Create**. Once you do that, you can manage forum tabs just the same way you manage categories and list them. Now your users can post in the forums.
 
