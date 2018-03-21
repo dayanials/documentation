@@ -7,10 +7,10 @@ permalink: /admin-keyboard-shortcuts/
 keywords: admin, shortcuts, panel, keyboard
 ---
 <div class="alert alert-warning">
-<strong><i class="glyphicon glyphicon-warning-sign"></i> </strong> This feature is available with our 2.8.0 release and on all sites hosted at <a href="https://yclas.com/">Yclas.com</a> 
+<strong><i class="glyphicon glyphicon-warning-sign"></i> </strong> This feature is available in our 2.8.0 release and can be used on all the sites hosted at <a href="https://yclas.com/">Yclas.com</a> 
 </div>
 
-If you want to take your admin panel browsing to a whole new level of proficiency, it's time to learn the keyboard shortcuts that are built into our software. There's nothing you have to do before, just login into your admin panel and **use the following keyboard shortcuts**:
+If you want to take your admin panel browsing to a whole new level of proficiency, it's time to learn the keyboard shortcuts that are built into our software. The only thing you have to do is login into your admin panel and **use the following keyboard shortcuts**:
 
 _Focus search input_
 
