@@ -10,16 +10,16 @@ keywords: post, publish, share, tweet, twitter, facebook
 ---
 ![auto tweet]({{site.baseurl}}/images/post-to-social-media.jpg)
 
-This feature saves you a lot of time from the manual task of copying your website ads and publishing them to your social media accounts while increasing the traffic of your website. Follow the steps below to have the ads posted in your site automatically posted to your Twitter and Facebook account.
+This feature saves you a lot of time from the manual task of copying your website ads and publishing them to your social media accounts to increase the traffic of your website. Follow the steps we will give you to have the ads posted in your site automatically posted on your Twitter and Facebook account.
 
 ## Only Featured Ads
 
-Enable this option to have only the Featured Ads automatically posted to your social media account right after the publisher completes the purchase the featured ad.
+Enable this option to have only the Featured Ads automatically posted to your social media account right after the publisher completes the purchase of the featured ad.
 
 
 ## Facebook
 
-Facebook auto post allows you to configure your site to automatically post to a Facebook profile page or to a Facebook Page. Follow the steps described below to setup a Facebook app and connect it to your website:
+Facebook auto post allows you to configure your site to automatically post to a Facebook profile page or to a Facebook page. Follow the steps described below to setup a Facebook app and connect it to your website:
 
 1\. Go to [https://developers.facebook.com/apps/](https://developers.facebook.com/apps/)
 
@@ -41,7 +41,7 @@ Facebook auto post allows you to configure your site to automatically post to a 
 
 7\. Get your Access Token:
 
-**If you want to post to your Facebook Page**
+**If you want to post on your Facebook Page**
 
   - Click on **Get Token** and select **Get User Access Token**. "Get Token" button is changed to your page name.
   - Select the permissions as indicated below and press **Get Access Token**:
@@ -52,14 +52,14 @@ Facebook auto post allows you to configure your site to automatically post to a 
   - Click on your page name (the same button) and select **Request publish_pages**
   - Got to the step 8.
 
-**If you want to post to your personal Facebook page**
+**If you want to post on your personal Facebook page**
 
   - Click on **Get Token** and select **Get User Access Token**.
   - Check the fields as described in the image below, click the **Get Access Token** button again and select your Facebook page
 
 ![auto fb]({{site.baseurl}}/images/fb-post-4.png)
 
-**If you want to post to your Facebook group**
+**If you want to post on your Facebook group**
 
   - Click on **Get Token** and select **Get User Access Token**.
   - Check the fields as described in the image below, click the **Get Access Token** button again and select your Facebook page
@@ -82,7 +82,7 @@ Facebook auto post allows you to configure your site to automatically post to a 
 
 ![auto fb]({{site.baseurl}}/images/fb-post-7.png)
 
-13\. Enable **Facebook -> Auto Post** and enter your **Facebook ID**. If you are posting on a Facebook page enter the ID of the page, if you are posting on a Facebook group or a user page enter the User ID. You can find the Facebook ID by using a website like http://findfacebookid.com/ and http://findmyfbid.com/
+13\. Enable **Facebook -> Auto Post** and enter your **Facebook ID**. If you are posting on a Facebook page, enter the ID of the page. If you are posting on a Facebook group or a user page, enter the User ID. You can find the Facebook ID by using a website like http://findfacebookid.com/ and http://findmyfbid.com/
 
 14\. Click **Save**
 
@@ -102,7 +102,7 @@ Here's how to connect your website to your Twitter account and automatically sen
 
 3\. Fill the fields and click **Create your Twitter application**
 
-4\. Go to the **Permissions** tab, set _Application Type_ to **Read and Write** and Then press Update this Twitter application's settings
+4\. Go to the **Permissions** tab, set _Application Type_ to **Read and Write** and then press Update this Twitter application's settings
 
 5\. Go to **Keys and Access Tokens** and press _Create my access token_
 
