@@ -6,15 +6,15 @@ tags: [Users]
 permalink: /roles-work-classified-ads-script/
 keywords: admin, moderator, moderation, translator, translation, user, normal user, profile, role, account, access, permission
 ---
-At some stage after the development of your classifieds website, you will need to **delegate other people to do some work** for you, from translation and content creation to moderation and website administration.
+At some stage, after the development of your classifieds website, you will need to **delegate other people to do some work** for you, from translation and content creation to moderation and website administration.
 
-With our open source classifieds script you could do that easily! Let's do an example of setting things up for a person, whom we will delegate to create content on our classifieds website.
+With our open source classifieds script you can do that easily! Let's make an example of setting things up for a person to whom we will delegate work to create content on our classifieds website.
 
 <a href="{{ site.baseurl }}/images/roles.png" class="thumbnail gallery-item" data-gallery>
 ![Roles1]({{ site.baseurl }}/images/roles.png)
 </a>
 
-1. First go to your classifieds website **Admin Panel** 
+1. First, go to your classifieds website **Admin Panel** 
 2. Go to **Users** > **Roles** 
 3. Create a **New Role** and press **Submit** 
 
@@ -28,7 +28,7 @@ With our open source classifieds script you could do that easily! Let's do an ex
 
 4\. **Edit** the newly created role<br>
 
-5\. You will find a long list of **privileges**, pick the ones you need to give access to and press **Update** Have the person helping you can **create a new user** or you can create one for him. 
+5\. You will find a long list of **privileges**, pick the ones you need to give access to and press **Update**. The person helping you can **create a new user** or you can create one for him or her. 
 
 1. Go to **Users** > **Users** in your **Admin Panel** 
 2. Edit his account 
@@ -46,7 +46,7 @@ Normal **user** has access to:
 - profile.*
 
 <br>
-**Translator** can access:
+**Translator** can access to:
 
 - content.*
 - messages.*
@@ -55,7 +55,7 @@ Normal **user** has access to:
 - translations.*
 
 <br>
-**Moderator** can access:
+**Moderator** can access to:
 
 - blog.*
 - category.*
@@ -68,9 +68,9 @@ Normal **user** has access to:
 - translations.*
 
 <br>
-**Admin** can access all the areas.
+**Admin** can access to all the areas.
 
 
-If you would like to know more about Yclas visit our FAQ section [here](http://docs.yclas.com/).
+If you would like to know more about Yclas, visit our FAQ section [here](http://docs.yclas.com/).
 
 
