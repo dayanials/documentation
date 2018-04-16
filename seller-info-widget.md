@@ -10,7 +10,7 @@ keywords: seller, advertisement page, information, reviews, rating, user, buyer
 ---
 Potential buyers sometimes need to know more about the seller of a product. They want to know who is the seller and see the reviews and rating. 
 
-This new widget allows you to show seller information in the ad page. For example, if you create the Seller Information Widget and place it to the sidebar, potential buyers will see more about the seller next to the ad.
+This new widget allows you to the show seller's information in the ad page. For example, if you create the "Seller Information Widget" and place it in the sidebar, then potential buyers will see more about the seller right next to the ad.
 
 ## Configuration
 
@@ -29,11 +29,11 @@ This new widget allows you to show seller information in the ad page. For exampl
 </a>
 
 + **Title displayed:** The title of the widget.
-+ **Show contact form:** If set to TRUE, a button to open the contact form appears in the widget.
-+ **Show seller description:** If set to TRUE, seller's description is displayed in the widget.
++ **Show contact form:** If set to TRUE, a button to open the contact form will appear in the widget.
++ **Show seller description:** If set to TRUE, the seller's description will be displayed in the widget.
 + **Show the last login date:** Set to TRUE to show seller's last login date and time.
 + **Show seller location:** _Location on Map_ shows seller's location on a map and _Address_ shows only the address of the seller. It works only if the seller entered his address in his profile.
-+ **Show seller custom fields:** Set to TRUE to show user custom fields.
++ **Show seller custom fields:** Set to TRUE to show user's custom fields.
 
 <a href="//docs.yclas.com/images/seller-info-3.png" class="thumbnail gallery-item" data-gallery>
 ![contactemail](//docs.yclas.com/images/seller-info-3.png)
