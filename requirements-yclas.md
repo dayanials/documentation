@@ -10,7 +10,7 @@ keywords: compatible, apache, php, short tags, gd, mod_rewrite, mcrypt, gettext,
 <strong><i class="glyphicon glyphicon-warning-sign"></i> </strong> This guide is only for Yclas Self Hosted!
 </div>
 
-There have been few cases when users were unable to run the software. That happens mostly if they don't check the needed requirements with their web hosting supported technologies.
+There have been few cases in which users were unable to run the software. That happens, mostly, if they don't check the needed requirements of their web hosting supported technologies.
 
 **The requirements to run Yclas Self Hosted on your server are:** 
 
@@ -28,7 +28,7 @@ There have been few cases when users were unable to run the software. That happe
   * MySQL 5+
   * OpenSSL
 
-We definitely recommend using our **affiliate's web hosting**, because it is 100% compatible with Yclas Self Hosted.
+We definitely recommend using our **affiliate's web hosting** because it is 100% compatible with Yclas Self Hosted.
 
 **[Get started now from 3.49/month](https://yclas.com/self-hosted.html)**
 
