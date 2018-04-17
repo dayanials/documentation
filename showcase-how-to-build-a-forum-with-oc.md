@@ -25,9 +25,9 @@ It's very easy and takes just few minutes!
 
 ![2](//open-classifieds.com/wp-content/uploads/2013/06/Edit-Translation.png)
 
-If you want you can also change the texts of emails being sent to your users in the Email tab e.g. instead of "Advertisement is created on [SITE.NAME]!" write "You've posted a thread on [SITE.NAME]!" etc.
+If you want, you can also change the texts of emails that are sent to your users in the Email tab e.g. instead of "Advertisement is created on [SITE.NAME]!", write "You've posted a thread on [SITE.NAME]!", etc.
 
-2\. **Change the configuration for posting an ad**. Most fields used for publishing advertisements are unnecessary for forum so choose **FALSE**. In the last field write your user name for [Disqus](http://disqus.com/) (if you don't have account there you have to create it first).
+2\. **Change the configuration for posting an ad**. Most fields used for publishing advertisements are unnecessary for forums, so choose **FALSE**. In the last field, write your user name for [Disqus](http://disqus.com/) (if you don't have account there you have to create it first).
 
 ![3]({{site.baseurl}}/images/ad-config-forum.png)
 
@@ -35,7 +35,7 @@ If you want you can also change the texts of emails being sent to your users in 
 
 4\. **To configure a forum category where users need to pay to post threads**:
 
-Choose the category that is going to be paid and click **Edit**. In the last field set the price for posting. In General Configuration (**Settings>General**) in the field **Moderation** choose last option: **Payment with moderation**. Remember to check Payments Configuration (**Settings>Payments**) as well - make sure your Paypal account is correct.
+Choose the category that is going to be paid and click **Edit**. In the last field, set the price for posting. In General Configuration, (**Settings>General**), in the field **Moderation**, choose the last option: **Payment with moderation**. Remember to check Payments Configuration (**Settings>Payments**) as well - make sure your Paypal account is correct.
 
 <br>
 **Related posts:**
