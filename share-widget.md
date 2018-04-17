@@ -7,14 +7,14 @@ permalink: /share-widget/
 keywords: social media, share, tweet, follow, post, facebook, twitter, linkedin, pinterest, google, googleplus, odnoklassniki, email, print, sms, whatsapp, vkontakte, tumblr, reddit, stumbleupon, digg, flipboard
 ---
 <div class="alert alert-warning">
-<strong><i class="glyphicon glyphicon-warning-sign"></i> </strong> This feature is available on our 3.0.0 release and on all sites hosted at <a href="https://yclas.com/">Yclas.com</a> 
+<strong><i class="glyphicon glyphicon-warning-sign"></i> </strong> This feature is available on our 3.0.0 release and on all of sites hosted at <a href="https://yclas.com/">Yclas.com</a> 
 </div>
 
-Now it's possible to choose the social media you want to display into the Share Widget.
+Now, it's possible to choose the social media you want to display into the Share Widget.
 
-When you create or edit the Share Widget, you can see the field called **Social media to display**, where you can type the social media you want to display. If you leave this field empty then all the available social media will be displayed.
+When you create or edit the Share Widget, you can see a field called **Social media to display**, there you can type the social media you want to display. If you leave this field empty, then all of the available social media will be displayed.
 
-Here's a list with all the available social media. Next to each social media you will see the keyword you need to type:
+Here's a list with all the available social media. Next to each social media, you will see the keyword you need to type:
 
 + **Whatsapp**: whatsapp
 + **Facebook**: facebook
@@ -32,7 +32,7 @@ Here's a list with all the available social media. Next to each social media you
 + **Email**: email
 + **Print**: print
 
-_*_ Whatsapp buttons appear only on mobile devices
+_*_ Whatsapp buttons only appear on mobile devices.
 
 **Example:**
 
