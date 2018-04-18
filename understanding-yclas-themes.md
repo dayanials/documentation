@@ -16,7 +16,7 @@ This post is written to help you understand how to **manage your way around our 
 
 **Yclas Self Hosted 2.x software** has a file structure driven from Kohana cascading file system; http://kohanaframework.org/3.2/guide/kohana/files.
 
-Yclas Self Hosted software comes with s default theme, this theme is basic with some limitations. Default (Ocean FREE) contains all views/styles that Yclas Self Hosted software needs. To explain more lets understand content and file system of this theme.
+Yclas Self Hosted software comes with a default theme. This theme is basic and with some limitations. Default (Ocean FREE) contains all views/styles that Yclas Self Hosted software needs. To explain more, it's necessary to understand content and file system of this theme.
 
 Note: We will explain only major files and folders. 
 
@@ -70,15 +70,15 @@ Note: We will explain only major files and folders.
     * (…)
   * init.php
 
-Now we have a general overview of the files. Let's talk about how everything is put together. Yclas have admin theme and front end (user) theme. **Admin views** can be found in default/views/oc-panel folder.
+Now that we have a general overview of the files, let's talk about how everything is put together. Yclas has an admin theme and a front end (user) theme. **Admin views** can be found in default/views/oc-panel folder.
 
-But, in this article, we will focus on our front end templates. So as you can realize by now, all other files and folders are related to front end views (except those stored in oc-panel folders).
+But, in this post, we will focus on our front end templates. So as you can realize by now, all other files and folders are related to front end views (except those stored in oc-panel folders).
 
-We use **bootstrap framework** (Bootstrap 2 http://getbootstrap.com/2.3.2/, Bootstrap 3 http://getbootstrap.com/), that nowadays it is almost a standard in website templating. In order to understand our template, we encouraging you to visit their website and learn more about Bootstrap.
+We use **bootstrap framework** (Bootstrap 2 http://getbootstrap.com/2.3.2/, Bootstrap 3 http://getbootstrap.com/), that nowadays it is almost a standard in website templating. In order to understand our template, we encourage you to visit their website and learn more about Bootstrap.
 
 ### HTML
 
-Let's consider following image. This image is a screenshot of our homepage. As you can see there are 4 main sectors **HEADER**, **MAIN CONTENT**, Placeholder-**LEFT** (widgets Placeholder), **FOOTER**. 
+Let's consider the following image. This image is a screenshot of our homepage. As you can see there are 4 main sectors **HEADER**, **MAIN CONTENT**, Placeholder-**LEFT** (widgets Placeholder), **FOOTER**. 
 
 ![Demo Yclas \(1\)](//open-classifieds.com/wp-content/uploads/2014/01/Demo-Open-Classifieds-1.png) 
 
@@ -88,7 +88,7 @@ But Main content is dependant on the page you are in. And all mark-up files coul
 
 ### File Linking
 
-First thing you need to know is that all styles and javascript/jQuery (http://jquery.com/) files are linked in init.php. Look at this example: 
+First thing you need to know is that all styles and javascript/jQuery (http://jquery.com/) files are linked in init.php. Take a look at this example: 
 
 css linking 
 
@@ -98,7 +98,7 @@ js linking
 
     Theme::$scripts['footer'] = array(‘http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js', 'http://netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js'); 
 
-These are two arrays for css and js files, if you want to include more of your own this is the right place to do so. Then they are passed in views/main.php document.
+These are two arrays for css and js files. If you want to include more of your own, this is the right place to do so. Then they are passed in views/main.php document.
 
     <?=Theme::styles($styles)?> 
 
@@ -114,7 +114,7 @@ All styles could be found in css folder as well as the relevant files for this a
 
 Since we are using Bootstrap, as previously mentioned, this file contains only general styles that are overwriting bootstrap ones. And extra styles to suit the needs of our software.
 
-Style.css is always included after bootstrap, as you can see in example above. But this IS a right place to add your own styles. Unless you want to add your own!?
+Style.css is always included after bootstrap, as you can see in example above. But this IS the right place to add your own styles. Unless you want to add your own!?
 
 ### JavaScript
 
@@ -140,9 +140,9 @@ If you don't remember how, refer to **File linking** section again, and include 
 
 This will activate Chosen for all HTML select elements on the page. 
 
-We hope this article comes of some benefit to any of you out there thinking of having your own design and building your own idea. Await more beneficial articles from Yclas team soon! And let us know if you have any feedback :)
+We hope this post has some benefit to any of you out there thinking about having your own design and building your own idea. Await more beneficial articles from the Yclas team soon! And let us know if you have any feedback or doubt.
 
-Best regards from Slobodan and Yclas team!
+Best regards from Slobodan and the Yclas team!
 
 Second part [here]({{ site.baseurl }}/modify-create-theme)
 
