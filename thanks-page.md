@@ -7,7 +7,7 @@ tags:
 - Settings
 permalink: /thanks-page/
 ---
-If you want users to see a customized thanks page after they publish their ads, you can use this feature. First, you need to create a new page and then to choose this page as the content that will be displayed to the user after he publishes an ad.
+If you want users to see a customized thanks page after they publish their ads, you can use this feature. First, you need to create a new page and then choose this page as the content that will be displayed to the user after he publishes an ad.
 
 **Steps to follow:**
 
