@@ -20,13 +20,13 @@ One of the major reasons for using our free classifieds script is the fact tha
 
 ## Custom Fields
 
-Yclas already has fields to enter general details of the businesses/services including name, email and phone no.  ***Update***[ Custom fields ]({{ site.baseurl }}/how-to-create-custom-fields)are now available with our [premium themes](https://selfhosted.yclas.com/), ready for you to customize according to your preferences. 
+Yclas already has fields to enter general details of the businesses/services including name, email and phone no.  ***Update***[ Custom fields ]({{ site.baseurl }}/how-to-create-custom-fields)are now available with our [premium themes](https://selfhosted.yclas.com/), ready for you to customize them according to your preferences. 
 
 ## Unlimited Categories
 
-We understand that there are countless business that can be listed in a business directory and within each category there can be hundreds of small or sub-categories and that's why Yclas allows you create unlimited categories and sub-categories. Each of this category can be either made free or paid depending on your idea and need. 
+We understand that there are countless business that can be listed in a business directory and within each category there can be hundreds of small or sub-categories and that's why Yclas allows you to create unlimited categories and sub-categories. Each of this category can be either made for free or not, depending on your intentions and needs. 
 
-## Apart from above features there are a few more features that might help you in using OC as a business directory
+## Apart from the above features, there are a few more features that might help you in using OC as a business directory
 
   * Customisable header
   * Flexible sidebar
