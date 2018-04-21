@@ -8,7 +8,7 @@ tags:
 permalink: /useful-statistics-about-your-advertisements/
 keywords: stats, statistics, profile, advertisements, panel
 ---
-There are a variety of tools available in our classified software. Since our 2.6.0 version we have improved the statistics panel, displaying data that will be useful and valuable to you.
+There are a variety of tools available in our classified software. Since our 2.6.0 version, we have improved the statistics panel, displaying data that will be useful and valuable to you.
 
 ## Site Stats
 
