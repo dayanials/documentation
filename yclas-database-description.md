@@ -6,7 +6,7 @@ tags: Technical, SelfHosted
 permalink: /yclas-database-description/
 keywords: mysql, tables, technical
 ---
-For the past period we've been working on helping **developers** and **advanced users** to understand more how the information is distributed in Yclas database and to give a better overall understanding of how Yclas works.
+For the past period we've been working on helping **developers** and **advanced users** to understand better how the information is distributed in Yclas database and giving a better overall understanding of how Yclas works.
 
 Basically, this is a detailed description of the database tables created during the installation of Yclas. Currently, the database supported by Yclas is MySQL version 5.0 or greater.
 
