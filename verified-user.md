@@ -7,7 +7,7 @@ permalink: /verified-user/
 keywords: verified, user, badge, confirmed, trusted, authentic, account, brand, seller, shop
 ---
 
-This new feature allows admins and moderators to mark a user account as verified. A verified user is usually a trustworthy user. Once a user is verified a badge is added next to the username. 
+This new feature allows admins and moderators to mark a user account as verified. A verified user is usually a trustworthy user. Once a user is verified, a badge is added next to the username. 
 
 The following steps explain how to enable this feature:
 
